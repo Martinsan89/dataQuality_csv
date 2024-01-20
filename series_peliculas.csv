@@ -1,0 +1,30 @@
+﻿Id,Nombre de la serie o película,Id_tipo,Tipo,Genero,Id_Actor,Actor/actriz,País de origen,Id_País_Origen,Año,Idioma original,Idioma del subtitulo
+1001,El Señor de los Anillos,1,Película,Ciencia ficción,10,Ian McKellen,EEUU,1,2001,Ingles,Español
+1002,Los Soprano,2,Serie,Drama,20,James Gandolfini,Estados Unidos,1,1999,Ingles,Español
+1003,El Padrino,1,Película,Drama,30,Al Pacino,USA,1,1972,Ingles,Español
+1002,Diarios de Motocicleta,1,Película,Documental,40,Rodrigo de la Serna,Argentina,54,2004,Español,Ingles
+1003,Dark,2,Serie,Ciencia ficción,50,Louis Hofmann,Alemania,49,2017,Aleman,Español
+1004,Seinfeld,2,Serie,Comedia,110,Jerry Seinfeld,USA,1,1989,Ingles,Español
+1003,Rápido y Furioso,1,Película,Acción,70,Vin Diesel,Estados Unidos,1,2001,Ingles,Español
+1004,El padrino,1,Película,Drama,80,Marlon Brando,Estados Unidos,1,1972,Ingles,Español
+1005,Harry Potter,1,Película,Ciencia ficción,90,Daniel Radcliffe,Reino Unido,44,2001,Ingles,Español
+1004,Star Wars: episodio IV una Nueva esperanza,1,Película,Ciencia ficción,100,Mark Hamill,Estados Unidos,1,1977,Ingles,Español
+1005,Titanic,1,Película,Drama,60,Leonardo DiCaprio,Estados Unidos,1,1997,Ingles,Español
+1006,El Demoledor,1,Película,Acción,120,Sylvester Stallone,Estados Unidos,1,1993,Ingles,Español
+1005,Esperando la Carroza,1,Película,Comedia,130,Antonio Gasalla,Argentina,54,1995,Español,Español
+1006,El lobo de Wall Street,2,Serie,Comedia,60,Leonardo DiCaprio,Estados Unidos,1,2013,Ingles,Español
+1007,American Psycho,1,Película,Terror,140,Christian Bale,Estados Unidos,1,2000,Ingles,Español
+1006,How i met your mother,2,Serie,Comedia,150,Josh Radnor,Estados Unidos,1,2005,Ingles,Español
+1007,Breaking Bad,2,Serie,Drama,160,Bryan Cranston,Estados Unidos,1,2008,Ingles,Español
+1008,Interestelar,1,Película,Ciencia ficción,170,Matthew McConaughey,Estados Unidos,1,2014,Ingles,Español
+1007,3rd rock from the sun,2,Serie,Comedia,180,John Lithgow,USA,1,1996,Ingles,Español
+1008,Relatos salvajes,1,Película,Comedia,190,Ricardo DarÃ­n,Argentina,54,2014,Español,Ingles
+1009,The Office,2,Serie,Comedia,200,Steve Carell,Estados Unidos,1,2005,Ingles,Español
+1008,Star Wars: Episodio I - La amenaza fantasma,1,Película,Ciencia ficción,210,Natalie Portman,EEUU,1,1999,Ingles,Español
+1009,Lost,2,Serie,Ciencia ficción,220,Matthew Fox,Estados Unidos,1,2004,Ingles,Español
+1010,The Big Bang Theory,2,Serie,Comedia,230,Jim Parsons,Estados Unidos,1,2007,Ingles,Español
+1009,La Cronica Francesa,1,Película,Comedia,240,Bill MURRAI,Alemania,49,2021,Ingles,Español
+1010,Matrix,1,Película,Ciencia ficción,250, Keanu Reeves,EEUU,1,2000,Ingles,Ingles
+1011,Gossip girl,2,Serie,Drama,260,Leighton Meester,Estados unidos,1,2007,Ingles,Español
+1010,Nueve Reinas,1,Película,Drama,270,Ricardo Darin,Argentina,54,2000,Español,Español
+1011,Si yo tuviera 30,1,Película,Comedia,280,Jennifer Garner,Estados Unidos,1,2004,Ingles,Español
